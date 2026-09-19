@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 3 2" role="img" aria-labelledby="title desc">
+  <title id="title">Flag of Nigeria</title>
+  <desc id="desc">Three vertical stripes: green, white, and green.</desc>
+  <rect width="1" height="2" fill="#008751"/>
+  <rect x="1" width="1" height="2" fill="#fff"/>
+  <rect x="2" width="1" height="2" fill="#008751"/>
+</svg>

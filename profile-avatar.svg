@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrated profile avatar for Lunex</title>
+  <desc id="desc">A friendly illustrated person against a green background.</desc>
+  <rect width="600" height="600" fill="#e7f4ee"/>
+  <circle cx="300" cy="300" r="235" fill="#0b6e4f"/>
+  <path d="M119 525c29-102 97-157 181-157s152 55 181 157" fill="#f5b88e"/>
+  <circle cx="300" cy="245" r="115" fill="#f5b88e"/>
+  <path d="M185 233c0-105 63-154 126-154 81 0 123 64 110 157-39-34-81-50-127-50-41 0-78 16-109 47Z" fill="#202b32"/>
+  <circle cx="258" cy="251" r="10" fill="#202b32"/>
+  <circle cx="342" cy="251" r="10" fill="#202b32"/>
+  <path d="M260 305c24 19 56 19 80 0" fill="none" stroke="#9c4f45" stroke-linecap="round" stroke-width="10"/>
+</svg>
