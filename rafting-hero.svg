@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800" role="img" aria-label="Rafting team on a river between green mountains">
+  <rect width="1600" height="800" fill="#a8ddec"/>
+  <path d="M0 355 275 105l210 220L700 80l310 260L1300 90l300 267V800H0Z" fill="#4f8e68"/>
+  <path d="M0 495c270-155 500-76 735-9 287 82 526-130 865-15V800H0Z" fill="#eaf9fb"/>
+  <path d="M0 554c262-125 504 100 753 26 295-89 484-12 847 38V800H0Z" fill="#2d9bc1"/>
+  <path d="M35 639c265-93 457 95 693 21 251-79 522-10 829 46" fill="none" stroke="#dff8ff" stroke-width="30" opacity=".8"/>
+  <path d="M580 520c90-80 278-80 368 0l-45 111H625Z" fill="#f3b33d" stroke="#173f42" stroke-width="13"/>
+  <circle cx="675" cy="486" r="37" fill="#f6c59b"/><circle cx="785" cy="464" r="37" fill="#8c563b"/><circle cx="875" cy="493" r="37" fill="#d48a5b"/>
+  <path d="M635 451h80v24h-80zm110-22h80v24h-80zm90 31h80v24h-80z" fill="#ee5d47"/>
+  <path d="m607 445-130-116m155 113 140-126m90 110 132-111" stroke="#173f42" stroke-width="15" stroke-linecap="round"/>
+</svg>
